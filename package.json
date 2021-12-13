@@ -1,14 +1,17 @@
 {
   "name": "http-proxy",
-  "version": "1.18.1",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/http-party/node-http-proxy.git"
+    "url": "https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy-hook.git"
   },
-  "description": "HTTP proxying for the masses",
+  "description": "HTTP proxying for the masses. Modified by H.Kys. for ws message hook",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "contributors": [
+    "Zion Lin <urara.kbys@gmail.zom> (https://h-kys.com)"
+  ],
   "maintainers": [
-    "jcrugzz <jcrugzz@gmail.com>"
+    "Zion Lin <urara.kbys@gmail.zom> (https://h-kys.com)"
   ],
   "main": "index.js",
   "dependencies": {
