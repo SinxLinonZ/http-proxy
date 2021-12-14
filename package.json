@@ -1,9 +1,10 @@
 {
   "name": "http-proxy",
   "version": "0.0.1",
+  "private": true,
   "repository": {
     "type": "git",
-    "url": "https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy-hook.git"
+    "url": "https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy.git"
   },
   "description": "HTTP proxying for the masses. Modified by H.Kys. for ws message hook",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",

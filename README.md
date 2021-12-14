@@ -1,3 +1,12 @@
+# node-http-proxy MODIFIED
+
+This module has been modified to be able to fork the websocket message while being forwarded.
+
+**DO NOT USE IF USING JupyterHub NORMALLY**
+
+<hr>
+
+
 <p align="center">
   <img src="https://raw.github.com/http-party/node-http-proxy/master/doc/logo.png"/>
 </p>
