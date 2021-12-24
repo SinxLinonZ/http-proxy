@@ -1,6 +1,13 @@
+# ***VERY IMPORTANT NOTICE***
+This repository is forked from https://github.com/http-party/node-http-proxy
+
+Modified for hooking websocket communications.
+
+For research use only. All copyrights reserved by http-party
+
 # node-http-proxy MODIFIED
 
-This module has been modified to be able to fork the websocket message while being forwarded.
+This module has been modified to be able to hook the websocket message while being forwarded.
 
 **DO NOT USE IF USING JupyterHub NORMALLY**
 
