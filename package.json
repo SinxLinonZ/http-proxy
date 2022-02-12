@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://gitlab.nsl.tuis.ac.jp/h-kys/http-proxy.git"
+    "url": "https://github.com/SinxLinonZ/configurable-http-proxy.git"
   },
   "description": "HTTP proxying for the masses. Modified by H.Kys. for ws message hook",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
