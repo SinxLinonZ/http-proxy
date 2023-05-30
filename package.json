@@ -17,8 +17,9 @@
   "main": "index.js",
   "dependencies": {
     "eventemitter3": "^4.0.0",
+    "follow-redirects": "^1.0.0",
     "requires-port": "^1.0.0",
-    "follow-redirects": "^1.0.0"
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "async": "^3.0.0",
